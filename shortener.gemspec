@@ -15,7 +15,7 @@ Gem::Specification.new do |s|
   s.rubyforge_project         = "shortener"
   s.required_rubygems_version = "> 2.1.0"
 
-  s.add_dependency "voight_kampff", '~> 0.2'
+  s.add_dependency "voight_kampff", '0.2.2'
 
   s.add_development_dependency "rails", '>= 3'
   s.add_development_dependency "sqlite3"
